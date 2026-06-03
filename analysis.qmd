@@ -7,7 +7,7 @@ format:
 ---
 
 ```{r}
-|# include: false
+#| include: false
 library(tidyverse)
 library(palmerpenguins)
 ```
