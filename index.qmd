@@ -10,7 +10,11 @@ format:
 #| include: false
 library(tidyverse)
 library(palmerpenguins)
+```
 
+```{r}
+#| echo: false
+#| warning: false
 pal <- c(
   "Adelie" = "#FF8C00",
   "Chinstrap" = "#A034F0",
